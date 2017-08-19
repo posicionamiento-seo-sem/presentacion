@@ -2035,29 +2035,6 @@ pre {
   padding-bottom: 30px;
   background-image: url("../../../assets/images/mbr-1920x1080.jpg");
 }
-.cid-qsIweQk1eQ {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-qsIweQk1eQ .line {
-  background-color: #000000;
-  color: #000000;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-qsIweQk1eQ .section-text {
-  padding: 2rem 0;
-}
-.cid-qsIweQk1eQ .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-qsIweQk1eQ .inner-container {
-    width: 100% !important;
-  }
-}
 .cid-qsIxm7I8IE {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -2117,6 +2094,29 @@ pre {
 }
 .cid-qsIxm7I8IE P {
   color: #000000;
+}
+.cid-qsIweQk1eQ {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-qsIweQk1eQ .line {
+  background-color: #000000;
+  color: #000000;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qsIweQk1eQ .section-text {
+  padding: 2rem 0;
+}
+.cid-qsIweQk1eQ .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qsIweQk1eQ .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-qsFC05mksw .navbar {
   padding: .5rem 0;
