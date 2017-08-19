@@ -2008,6 +2008,28 @@ pre {
 .cid-qsInX8bLNe .section-text B {
   color: #000000;
 }
+.cid-qsKCplu0jX {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: #ffffff;
+  background: linear-gradient(0deg, #c1c1c1, #ffffff);
+}
+.cid-qsKCplu0jX .image-block {
+  margin: auto;
+}
+.cid-qsKCplu0jX figcaption {
+  position: relative;
+}
+.cid-qsKCplu0jX figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qsKCplu0jX .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qsIoSjmTcU {
   padding-top: 60px;
   padding-bottom: 30px;
